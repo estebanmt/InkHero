@@ -1,0 +1,269 @@
+fileFormatVersion: 2
+guid: 443e45bd14aab124aa892e8200d7adde
+timeCreated: 1479517959
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Bushly_PrincessSera - Copy (2)_0
+    21300002: Bushly_PrincessSera - Copy (2)_1
+    21300004: Bushly_PrincessSera - Copy (2)_2
+    21300006: Bushly_PrincessSera - Copy (2)_3
+    21300008: Bushly_PrincessSera - Copy (2)_4
+    21300010: Bushly_PrincessSera - Copy (2)_5
+    21300012: Bushly_PrincessSera - Copy (2)_6
+    21300014: Bushly_PrincessSera - Copy (2)_7
+    21300016: Bushly_PrincessSera - Copy (2)_8
+    21300018: Bushly_PrincessSera - Copy (2)_9
+    21300020: Bushly_PrincessSera - Copy (2)_10
+    21300022: Bushly_PrincessSera - Copy (2)_11
+    21300024: Bushly_PrincessSera - Copy (2)_12
+    21300026: Bushly_PrincessSera - Copy (2)_13
+    21300028: Bushly_PrincessSera Angel_0
+    21300030: Bushly_PrincessSera Angel_1
+    21300032: Bushly_PrincessSera Angel_2
+    21300034: Bushly_PrincessSera Angel_3
+    21300036: Bushly_PrincessSera Angel_4
+    21300038: Bushly_PrincessSera Angel_5
+    21300040: Bushly_PrincessSera Angel_6
+    21300042: Bushly_PrincessSera Angel_7
+    21300044: Bushly_PrincessSera Angel_8
+    21300046: Bushly_PrincessSera Angel_9
+    21300048: Bushly_PrincessSera Angel_10
+    21300050: Bushly_PrincessSera Angel_11
+    21300052: Bushly_PrincessSera Angel_12
+    21300054: Bushly_PrincessSera Angel_13
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 18
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Bushly_PrincessSera Angel_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 57
+        width: 29
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bushly_PrincessSera Angel_1
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 59
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bushly_PrincessSera Angel_2
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 57
+        width: 32
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bushly_PrincessSera Angel_3
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 57
+        width: 29
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bushly_PrincessSera Angel_4
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 31
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bushly_PrincessSera Angel_5
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 32
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bushly_PrincessSera Angel_6
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 32
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bushly_PrincessSera Angel_7
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 32
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bushly_PrincessSera Angel_8
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 32
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bushly_PrincessSera Angel_9
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 31
+        width: 28
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bushly_PrincessSera Angel_10
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 4
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bushly_PrincessSera Angel_11
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 4
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bushly_PrincessSera Angel_12
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 2
+        width: 28
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bushly_PrincessSera Angel_13
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 2
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

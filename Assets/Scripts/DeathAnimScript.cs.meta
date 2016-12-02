@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 4723a600406780c419d530fdd9384e34
+timeCreated: 1480617998
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - collectSound: {fileID: 8300000, guid: c5300356620053e468df02e2844aa38f, type: 3}
+  - clip_muerte: {fileID: 8300000, guid: 06e4988550868bf44851082ec5729a1f, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

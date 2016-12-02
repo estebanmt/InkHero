@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 1b820c20097899e449118cb098f1db43
+timeCreated: 1480629268
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - animacion_muerte: {fileID: 1000010374718812, guid: d9fdeb8599af5b549a639409ac3ecd1d,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
