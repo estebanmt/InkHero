@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/_Scenes/SeleccionEtapas2.unity
+- path: Assets/_Scenes/RealLevel1.unity
   isLoaded: 1
   isActive: 1
