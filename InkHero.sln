@@ -1,0 +1,35 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{17AB5277-E5C7-CB60-8E71-4379F75EB447}") = "InkHero", "Assembly-CSharp-firstpass.csproj", "{974E2AA0-1DE6-4AEF-3113-ED68CC5A8395}"
+EndProject
+Project("{17AB5277-E5C7-CB60-8E71-4379F75EB447}") = "InkHero", "Assembly-CSharp.csproj", "{19518EB5-CC9A-3200-FFDC-6EE05A7A470B}"
+EndProject
+Project("{17AB5277-E5C7-CB60-8E71-4379F75EB447}") = "InkHero", "Assembly-CSharp-Editor.csproj", "{ECE09B83-5BDC-C0FA-C6E4-74B1B7E48ECB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{974E2AA0-1DE6-4AEF-3113-ED68CC5A8395}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{974E2AA0-1DE6-4AEF-3113-ED68CC5A8395}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{974E2AA0-1DE6-4AEF-3113-ED68CC5A8395}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{974E2AA0-1DE6-4AEF-3113-ED68CC5A8395}.Release|Any CPU.Build.0 = Release|Any CPU
+		{19518EB5-CC9A-3200-FFDC-6EE05A7A470B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19518EB5-CC9A-3200-FFDC-6EE05A7A470B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19518EB5-CC9A-3200-FFDC-6EE05A7A470B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19518EB5-CC9A-3200-FFDC-6EE05A7A470B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ECE09B83-5BDC-C0FA-C6E4-74B1B7E48ECB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ECE09B83-5BDC-C0FA-C6E4-74B1B7E48ECB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ECE09B83-5BDC-C0FA-C6E4-74B1B7E48ECB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ECE09B83-5BDC-C0FA-C6E4-74B1B7E48ECB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
